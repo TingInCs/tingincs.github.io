@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ting | Personal Blog</title>
-    <link>https://demo.gethugothemes.com/airspace/categories/</link>
+    <link>https://tingincs.github.io/airspace/categories/</link>
     <description>Recent content in Categories on Ting | Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/airspace/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tingincs.github.io/airspace/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News</title>
-      <link>https://demo.gethugothemes.com/airspace/categories/news/</link>
+      <link>https://tingincs.github.io/airspace/categories/news/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://demo.gethugothemes.com/airspace/categories/news/</guid>
+      <guid>https://tingincs.github.io/airspace/categories/news/</guid>
       <description></description>
     </item>
     
