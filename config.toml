@@ -4,7 +4,6 @@
 #
 # The actual configuration files are stored in the `config/_default/` folder.
 
-baseURL = "https://tingincs.github.io/"
 ######################### site variables ##############################
 # customize your color and font from here.
 [params.variables]
