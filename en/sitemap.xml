@@ -2,340 +2,340 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tingincs.github.io/airspace/project/1-sim-to-real/</loc>
+    <loc>https://tingincs.github.io/project/1-sim-to-real/</loc>
   </url><url>
-    <loc>https://tingincs.github.io/airspace/project/2-lora/</loc>
+    <loc>https://tingincs.github.io/project/2-lora/</loc>
   </url><url>
-    <loc>https://tingincs.github.io/airspace/project/3-fpga/</loc>
+    <loc>https://tingincs.github.io/project/3-fpga/</loc>
   </url><url>
-    <loc>https://tingincs.github.io/airspace/project/4-arduino/</loc>
+    <loc>https://tingincs.github.io/project/4-arduino/</loc>
   </url><url>
-    <loc>https://tingincs.github.io/airspace/project/5-kirby/</loc>
+    <loc>https://tingincs.github.io/project/5-kirby/</loc>
   </url><url>
-    <loc>https://tingincs.github.io/airspace/project/6-canvas/</loc>
+    <loc>https://tingincs.github.io/project/6-canvas/</loc>
   </url><url>
-    <loc>https://tingincs.github.io/airspace/project/7-chatroom/</loc>
+    <loc>https://tingincs.github.io/project/7-chatroom/</loc>
   </url><url>
-    <loc>https://tingincs.github.io/airspace/</loc>
+    <loc>https://tingincs.github.io/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/"
+                href="https://tingincs.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/"
+                href="https://tingincs.github.io/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/"
+                href="https://tingincs.github.io/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/"
+                href="https://tingincs.github.io/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/blog/</loc>
+    <loc>https://tingincs.github.io/blog/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/blog/"
+                href="https://tingincs.github.io/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/blog/"
+                href="https://tingincs.github.io/it/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/blog/"
+                href="https://tingincs.github.io/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/blog/"
+                href="https://tingincs.github.io/blog/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/categories/</loc>
+    <loc>https://tingincs.github.io/categories/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/categories/"
+                href="https://tingincs.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/categories/"
+                href="https://tingincs.github.io/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/categories/"
+                href="https://tingincs.github.io/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/categories/"
+                href="https://tingincs.github.io/categories/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/tags/introduction/</loc>
+    <loc>https://tingincs.github.io/tags/introduction/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tingincs.github.io/airspace/categories/news/</loc>
+    <loc>https://tingincs.github.io/categories/news/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tingincs.github.io/airspace/tags/</loc>
+    <loc>https://tingincs.github.io/tags/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/tags/"
+                href="https://tingincs.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/tags/"
+                href="https://tingincs.github.io/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/tags/"
+                href="https://tingincs.github.io/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/tags/"
+                href="https://tingincs.github.io/tags/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/blog/welcome/</loc>
+    <loc>https://tingincs.github.io/blog/welcome/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tingincs.github.io/airspace/faq/</loc>
+    <loc>https://tingincs.github.io/faq/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/faq/"
+                href="https://tingincs.github.io/fr/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/faq/"
+                href="https://tingincs.github.io/it/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/faq/"
+                href="https://tingincs.github.io/de/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/faq/"
+                href="https://tingincs.github.io/faq/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/message_sent/</loc>
+    <loc>https://tingincs.github.io/message_sent/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/message_sent/"
+                href="https://tingincs.github.io/fr/message_sent/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/message_sent/"
+                href="https://tingincs.github.io/it/message_sent/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/message_sent/"
+                href="https://tingincs.github.io/de/message_sent/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/message_sent/"
+                href="https://tingincs.github.io/message_sent/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/about/</loc>
+    <loc>https://tingincs.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/about/"
+                href="https://tingincs.github.io/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/about/"
+                href="https://tingincs.github.io/it/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/about/"
+                href="https://tingincs.github.io/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/about/"
+                href="https://tingincs.github.io/about/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/author/</loc>
+    <loc>https://tingincs.github.io/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/author/"
+                href="https://tingincs.github.io/fr/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/author/"
+                href="https://tingincs.github.io/it/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/author/"
+                href="https://tingincs.github.io/de/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/author/"
+                href="https://tingincs.github.io/author/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/contact/</loc>
+    <loc>https://tingincs.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/contact/"
+                href="https://tingincs.github.io/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/contact/"
+                href="https://tingincs.github.io/it/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/contact/"
+                href="https://tingincs.github.io/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/contact/"
+                href="https://tingincs.github.io/contact/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/author/john-doe/</loc>
+    <loc>https://tingincs.github.io/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/author/john-doe/"
+                href="https://tingincs.github.io/fr/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/author/john-doe/"
+                href="https://tingincs.github.io/it/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/author/john-doe/"
+                href="https://tingincs.github.io/de/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/author/john-doe/"
+                href="https://tingincs.github.io/author/john-doe/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/author/mark-dinn/</loc>
+    <loc>https://tingincs.github.io/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/author/mark-dinn/"
+                href="https://tingincs.github.io/fr/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/author/mark-dinn/"
+                href="https://tingincs.github.io/it/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/author/mark-dinn/"
+                href="https://tingincs.github.io/de/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/author/mark-dinn/"
+                href="https://tingincs.github.io/author/mark-dinn/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/project/</loc>
+    <loc>https://tingincs.github.io/project/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/project/"
+                href="https://tingincs.github.io/fr/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/project/"
+                href="https://tingincs.github.io/it/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/project/"
+                href="https://tingincs.github.io/de/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/project/"
+                href="https://tingincs.github.io/project/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/pricing/</loc>
+    <loc>https://tingincs.github.io/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/pricing/"
+                href="https://tingincs.github.io/fr/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/pricing/"
+                href="https://tingincs.github.io/it/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/pricing/"
+                href="https://tingincs.github.io/de/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/pricing/"
+                href="https://tingincs.github.io/pricing/"
                 />
   </url><url>
-    <loc>https://tingincs.github.io/airspace/service/</loc>
+    <loc>https://tingincs.github.io/service/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://tingincs.github.io/airspace/fr/service/"
+                href="https://tingincs.github.io/fr/service/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://tingincs.github.io/airspace/it/service/"
+                href="https://tingincs.github.io/it/service/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://tingincs.github.io/airspace/de/service/"
+                href="https://tingincs.github.io/de/service/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tingincs.github.io/airspace/service/"
+                href="https://tingincs.github.io/service/"
                 />
   </url>
 </urlset>
